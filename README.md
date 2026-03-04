@@ -82,13 +82,13 @@
     <div class="toc">
         <div class="toc-title">Índice</div>
         <ol>
-            <li><a href="#">Definição e Conceito</a></li>
+            <li><a href="#defin">Definição e Conceito</a></li>
             <li><a href="#">Perfil Empreendedor</a></li>
             <li><a href="#">Tipos de Empreendedorismo</a></li>
         </ol>
     </div>
 
-    <h2>Definição e Conceito</h2>
+    <h2 id="defin">Definição e Conceito</h2>
     <p>Para o [Sebrae](https://sebrae.com.br), empreender vai além de abrir uma empresa; trata-se de uma postura proativa diante de problemas. Segundo a teoria da "Destruição Criativa" de Joseph Schumpeter, o empreendedor é o motor da economia, pois introduz novas tecnologias e métodos que substituem processos obsoletos.</p>
 
     <img src="https://simulare.com.br/wp-content/uploads/206807-3-razoes-para-estimular-o-empreendedorismo-na-universidade.jpg" alt="Educação para o Empreendedorismo" class="img-box">
